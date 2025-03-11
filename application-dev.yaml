@@ -1,0 +1,10 @@
+db:
+  host: localhost
+  port: 3306
+  user: root
+  password: xiao123..
+  dbname: user
+http:
+  port: 8080
+jwt:
+  secret: mysecret
